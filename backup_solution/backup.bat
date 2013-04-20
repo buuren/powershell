@@ -1,0 +1,1 @@
+powershell -command "C:\Estel\cobian\bat\cobianbackup.ps1"
